@@ -2,7 +2,7 @@
 
 **TL;DR: use of symbolic action models improves exploration, which, in turn, allows us to automatically improve these models. The result: not just tasks solved faster, but reusable lifted action models, generalizing not just to new goals, but new objects as well.**
 
-**<p align="center">[Code Repository](https://github.com/sarathsreedharan/ModelLearner)</p>**
+**[Code Repository](https://github.com/sarathsreedharan/ModelLearner)**
 
 It is no great exaggeration to claim that effective exploration remains one of the biggest bottlenecks in scaling up reinforcement learning (RL) agents in sparse reward domains. 
 
